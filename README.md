@@ -39,7 +39,7 @@ cd Hello-Java
 Run the files on [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/#section=windows) - this is for Windows users.
 
 ### To create your own projects
-Create a project with a relevant name and specify a package name e.g ```com.example.loops``` and Java class name e.g ```Main ``` to avoid errors.
+Create a project with a relevant name and specify a package name e.g ```com.example.loops``` and Java class name e.g ```Main``` to avoid errors.
 
 ### To interact with the code
 Uncomment lines to run each scenario.
