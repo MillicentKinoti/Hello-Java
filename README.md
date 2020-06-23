@@ -31,10 +31,11 @@
 
 ### Clone the repository
 
-``
+```
 git clone https://github.com/nyamburanjuguna/Hello-Java.git
+
 cd Hello-Java
-``
+```
 Run the files on [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/#section=windows) - this is for Windows users.
 
 ### To create your own projects
