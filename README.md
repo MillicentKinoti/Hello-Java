@@ -1,5 +1,5 @@
 # Hello-Java
-  This is an Introduction to Java Language guide.
+  This is a quick guide to the Java Language.
  
   #### => What will be covered 
   Java Core
